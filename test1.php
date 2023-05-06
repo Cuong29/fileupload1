@@ -1,2 +1,2 @@
-GIF89a;
+ÿØÿá??Exif␀␀;
 <?php phpinfo(); ?>
